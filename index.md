@@ -39,4 +39,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### PDF Collection
 <a href="./assets/pdfs/test.pdf" target="_blank">PDF</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zv11L-ZfrSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Zv11L-ZfrSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
