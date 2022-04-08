@@ -1,4 +1,39 @@
-# BETA Universe Systems Initiative Table Application
+---
+title: BETA Universe Systems Initiative Table Application
+---
+
+## About
+
+In tabletop role-playing games, players can be burdened by extraneous calculations and player order, which disrupt the flow and narrative of the game. The BETA Universe Systems Initiative Table Application is a mobile-optimized companion web application that aims to digitize and streamline gameplay components from the tabletop role-playing game “BETA Universe Systems.” Players can register for accounts, manage player characters, and participate in game sessions that feature real-time communication via a chat log and combat loop. Gamemasters can also register for accounts, manage the non-player characters and manage game sessions along with running them.
+
+## Team Members
+
+Jacob Gayban, Mark Graham, Andy Alarcon, Jacob Tucker, Griffin Wagenknecht
+
+## Advisors
+
+### Instructors
+
+Dave Feil-Seifer
+
+Devrin Lee
+
+Vinh Le
+
+### External Advisor
+
+John Molt, BETA Universe Systems LLC
+
+## Related Resources
+
+### Problem Domain Book
+
+### Useful Websites
+
+### Technical Resources
+
+### Other Sources
+
 
 ## Welcome to GitHub Pages
 
