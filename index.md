@@ -1,5 +1,5 @@
 ---
-title: BETA Universe Systems Initiative Table Application
+title: CS 426 Senior Project in Computer Science, Spring 2022, at UNR, CSE Department
 ---
 
 ## About
@@ -28,52 +28,36 @@ John Molt, BETA Universe Systems LLC
 
 ### Problem Domain Book
 
+John Molt. 2017. _Beta Universe Systems Book of Player Character Combat._  
+This is the book that we are digitizing. It is our reference material that our advisor has written for his tabletop role-playing game. This book details every aspect of combat and everything that he wants us to automate. If we ever have a question we reference this book.
+
 ### Useful Websites
+
+[Roll20](https://roll20.net/)  
+This is a popular Dungeons and Dragons (D&D) companion that shows a map, plays music, and has a chat log. After our part of the project is done our advisor wants to add a virtual map and music. It is used in a group setting similar to our web app. It is used as a companion, but is not a supplement for the game.
+
+[D&D Initiative Tracker](https://kastark.co.uk/rpgs/encounter-tracker/)  
+This website is similar to our project. It is an initiative tracker where you manually enter your name, initiative number, and HP. This differs from our project in that ours automates all of combat and not just helps with the initiative order.
+
+[D&D Beyond](https://www.dndbeyond.com/)  
+This is a D&D reference website where you can store characters, books, classes, pretty much everything you need for D&D. We are aiming to make something like this, but for our role-playing system. Our project is step-one of our external advisor's plan.
 
 ### Technical Resources
 
+Jean Yang, Vijay Janapa Reddi, Yuhao Zhu, and Peter Bailis. 2016. Research for Practice: Web Security and Mobile Web Computing: Expert-curated Guides to the Best of CS Research. _Queue_ 14, 4 (July-August 2016), 80–95. DOI: <https://doi.org/10.1145/2984629.3005356>
+
+Thomas Gustafsson and Jörgen Hansson. 2004. Dynamic on-demand updating of data in real-time database systems. In _Proceedings of the 2004 ACM symposium on Applied computing_ (_SAC '04_). Association for Computing Machinery, New York, NY, USA, 846–853. DOI: <https://doi.org/10.1145/967900.968074>
+
 ### Other Sources
 
+<object data="./assets/pdfs/426_PA1.pdf" width="740" height="1000" type='application/pdf'></object>
 
-## Welcome to GitHub Pages
+#### Links To Our Documentation
 
-You can use the [editor on GitHub](https://github.com/UNR-CS426-Team-07/UNR-CS426-Team-07.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+##### CS 425
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[PA1](./assets/pdfs/425_PA1.pdf) [PA2](./assets/pdfs/425_PA2.pdf) [PA3](./assets/pdfs/425_PA3.pdf) [PA4](./assets/pdfs/425_PA4.pdf)
 
-### Markdown
+##### CS 426
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UNR-CS426-Team-07/UNR-CS426-Team-07.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-### PDF Collection
-<a href="./assets/pdfs/test.pdf" target="_blank">PDF</a>
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Zv11L-ZfrSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+[PA1](./assets/pdfs/426_PA1.pdf) [PA2](./assets/pdfs/426_PA2.pdf) [PA3](./assets/pdfs/426_PA3.pdf) [PA4](./assets/pdfs/426_PA4.pdf)
