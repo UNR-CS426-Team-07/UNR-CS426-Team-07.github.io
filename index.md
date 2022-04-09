@@ -1,5 +1,6 @@
 ---
-title: CS 426 Senior Project in Computer Science, Spring 2022, at UNR, CSE Department
+layout: post
+title: BETA Universe Systems Initiative Table Application
 ---
 
 ## About
@@ -50,7 +51,7 @@ Thomas Gustafsson and Jörgen Hansson. 2004. Dynamic on-demand updating of data 
 
 ### Other Sources
 
-<object data="./assets/pdfs/426_PA1.pdf" width="740" height="1000" type='application/pdf'></object>
+<!-- <object data="./assets/pdfs/426_PA1.pdf" width="740" height="1000" type='application/pdf'></object> -->
 
 #### Links To Our Documentation
 
