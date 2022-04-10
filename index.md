@@ -25,6 +25,10 @@ Vinh Le
 
 John Molt, BETA Universe Systems LLC
 
+## Project Poster
+
+![Project Poster](./assets/images/poster.png)
+
 ## Related Resources
 
 ### Problem Domain Book
