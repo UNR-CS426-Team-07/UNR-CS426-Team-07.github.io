@@ -13,6 +13,34 @@ In tabletop role-playing games, players can be burdened by extraneous calculatio
 
 ---
 
+<div class="row1-container">
+    <div class="box cyan">
+        <h2>Jacob Gayban</h2>
+        <p>Session Management System</p>
+    </div>
+    <div class="box red">
+        <h2>Mark Graham</h2>
+        <p>Character Management System</p>
+    </div>
+    
+</div>
+<div class="row1-container">
+    <div class="box orange">
+        <h2>Jacob Tucker</h2>
+        <p>User Experience</p>
+    </div>
+    <div class="box blue">
+        <h2>Andy Alarcon</h2>
+        <p>Real-Time Sessions System</p>
+    </div>
+</div>
+<div class="row1-container">
+    <div class="box cyan">
+        <h2>Griffin Wagenknecht</h2>
+        <p>Authentication System</p>
+    </div>
+</div>
+
 Jacob Gayban, Mark Graham, Andy Alarcon, Jacob Tucker, Griffin Wagenknecht
 
 ## Advisors
@@ -21,11 +49,11 @@ Jacob Gayban, Mark Graham, Andy Alarcon, Jacob Tucker, Griffin Wagenknecht
 
 ### Instructors
 
-Dave Feil-Seifer
-
-Devrin Lee
-
-Vinh Le
+<div class="row1-container">
+    <div class="box">David Feil-Seifer</div>
+    <div class="box">Devrin Lee</div>
+    <div class="box">Vinh Le</div>
+</div>
 
 ### External Advisor
 
@@ -68,10 +96,22 @@ Thomas Gustafsson and Jörgen Hansson. 2004. Dynamic on-demand updating of data 
 
 ---
 
+(Click to open)
+
 ### CS 425
 
-[PA1](./assets/pdfs/425_PA1.pdf) [PA2](./assets/pdfs/425_PA2.pdf) [PA3](./assets/pdfs/425_PA3.pdf) [PA4](./assets/pdfs/425_PA4.pdf)
+<div class="row1-container">
+    <div class="box cyan"><h2>PA1</h2><p>Project Concept</p>[PA1](./assets/pdfs/425_PA1.pdf)</div>
+    <div class="box red"><h2>PA2</h2><p>Technical Specification</p>[PA2](./assets/pdfs/425_PA2.pdf)</div>
+    <div class="box blue"><h2>PA3</h2><p>Project Design</p>[PA3](./assets/pdfs/425_PA3.pdf)</div>
+    <div class="box orange"><h2>PA4</h2><p>Developed Prototype</p>[PA4](./assets/pdfs/425_PA4.pdf)</div>
+</div>
 
 ### CS 426
 
-[PA1](./assets/pdfs/426_PA1.pdf) [PA2](./assets/pdfs/426_PA2.pdf) [PA3](./assets/pdfs/426_PA3.pdf) [PA4](./assets/pdfs/426_PA4.pdf)
+<div class="row1-container">
+    <div class="box cyan"><h2>PA1</h2><p>Revised Concept</p>[PA1](./assets/pdfs/426_PA1.pdf)</div>
+    <div class="box red"><h2>PA2</h2><p>Revised Specification</p>[PA2](./assets/pdfs/426_PA2.pdf)</div>
+    <div class="box blue"><h2>PA3</h2><p>Acceptance Criteria</p>[PA3](./assets/pdfs/426_PA3.pdf)</div>
+    <div class="box orange"><h2>PA4</h2><p>Progress Demo</p>[PA4](./assets/pdfs/426_PA4.pdf)</div>
+</div>
