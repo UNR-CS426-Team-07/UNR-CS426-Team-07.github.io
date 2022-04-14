@@ -1,7 +1,17 @@
 ---
 layout: page
 title: Project Description
+carousels:
+    - images:
+        - image: /assets/images/carousel/login.png
+        - image: /assets/images/carousel/register.png
+        - image: /assets/images/carousel/management.png
+        - image: /assets/images/carousel/ingame.png
+        - image: /assets/images/carousel/atk.png
+        - image: /assets/images/carousel/dfnd.png
 ---
+
+{% include carousel.html height="450" unit="px" number="1" %}
 
 ## Project Description
 
@@ -41,8 +51,6 @@ In tabletop role-playing games, players can be burdened by extraneous calculatio
     </div>
 </div>
 
-Jacob Gayban, Mark Graham, Andy Alarcon, Jacob Tucker, Griffin Wagenknecht
-
 ## Advisors
 
 ---
@@ -68,7 +76,7 @@ Jacob Gayban, Mark Graham, Andy Alarcon, Jacob Tucker, Griffin Wagenknecht
 ---
 
 [![Project Poster](./assets/images/poster.png)](https://unr-cs426-team-07.github.io/assets/images/poster.png)  
-(Click to enlarge)
+_Click to enlarge_
 
 ## Related Resources
 
@@ -92,17 +100,19 @@ This is a D&D reference website where you can store characters, books, classes, 
 
 ### Technical Resources
 
-Jean Yang, Vijay Janapa Reddi, Yuhao Zhu, and Peter Bailis. 2016. Research for Practice: Web Security and Mobile Web Computing: Expert-curated Guides to the Best of CS Research. _Queue_ 14, 4 (July-August 2016), 80–95. DOI: <https://doi.org/10.1145/2984629.3005356>
+Jean Yang, Vijay Janapa Reddi, Yuhao Zhu, and Peter Bailis. 2016. Research for Practice: Web Security and Mobile Web Computing: Expert-curated Guides to the Best of CS Research. _Queue_ 14, 4 (July-August 2016), 80–95.  
+DOI: <https://doi.org/10.1145/2984629.3005356>
 
-Thomas Gustafsson and Jörgen Hansson. 2004. Dynamic on-demand updating of data in real-time database systems. In _Proceedings of the 2004 ACM symposium on Applied computing_ (_SAC '04_). Association for Computing Machinery, New York, NY, USA, 846–853. DOI: <https://doi.org/10.1145/967900.968074>
+Thomas Gustafsson and Jörgen Hansson. 2004. Dynamic on-demand updating of data in real-time database systems. In _Proceedings of the 2004 ACM symposium on Applied computing_ (_SAC '04_). Association for Computing Machinery, New York, NY, USA, 846–853.  
+DOI: <https://doi.org/10.1145/967900.968074>
 
 ## Project Documentation
 
----
-
-(Click to open)
+_Click to open_
 
 ### CS 425
+
+---
 
 <div class="row1-container">
     <a href="./assets/pdfs/425_PA1.pdf">
@@ -122,6 +132,8 @@ Thomas Gustafsson and Jörgen Hansson. 2004. Dynamic on-demand updating of data 
 </div>
 
 ### CS 426
+
+---
 
 <div class="row1-container">
     <a href="./assets/pdfs/426_PA1.pdf">
