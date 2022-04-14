@@ -50,14 +50,18 @@ Jacob Gayban, Mark Graham, Andy Alarcon, Jacob Tucker, Griffin Wagenknecht
 ### Instructors
 
 <div class="row1-container">
-    <div class="box">David Feil-Seifer</div>
-    <div class="box">Devrin Lee</div>
-    <div class="box">Vinh Le</div>
+    <div class="box cyan"><h3>David Feil-Seifer</h3></div>
+    <div class="box red"><h3>Devrin Lee</h3></div>
+    <div class="box orange"><h3>Vinh Le</h3></div>
 </div>
 
 ### External Advisor
 
-John Molt, BETA Universe Systems LLC
+<div class="row1-container">
+    <div class="box blue">
+        <h3>John Molt, BETA Universe Systems LLC</h3>
+    </div>
+</div>
 
 ## Project Poster
 
