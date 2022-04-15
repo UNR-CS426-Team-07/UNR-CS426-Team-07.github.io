@@ -3,12 +3,12 @@ layout: page
 title: Project Description
 carousels:
     - images:
-        - image: /assets/images/carousel/login.png
-        - image: /assets/images/carousel/register.png
-        - image: /assets/images/carousel/management.png
-        - image: /assets/images/carousel/ingame.png
-        - image: /assets/images/carousel/atk.png
-        - image: /assets/images/carousel/dfnd.png
+          - image: /assets/images/carousel/login.png
+          - image: /assets/images/carousel/register.png
+          - image: /assets/images/carousel/management.png
+          - image: /assets/images/carousel/ingame.png
+          - image: /assets/images/carousel/atk.png
+          - image: /assets/images/carousel/dfnd.png
 ---
 
 {% include carousel.html height="450" unit="px" number="1" %}
@@ -67,7 +67,8 @@ In tabletop role-playing games, players can be burdened by extraneous calculatio
 
 <div class="row1-container">
     <div class="box blue">
-        <h3>John Molt, BETA Universe Systems LLC</h3>
+        <h3>John Molt</h3>
+        <p>BETA Universe Systems LLC</p>
     </div>
 </div>
 
@@ -75,8 +76,8 @@ In tabletop role-playing games, players can be burdened by extraneous calculatio
 
 ---
 
-[![Project Poster](./assets/images/poster.png)](https://unr-cs426-team-07.github.io/assets/images/poster.png)  
 _Click to enlarge_
+[![Project Poster](./assets/images/poster.png)](https://unr-cs426-team-07.github.io/assets/images/poster.png)
 
 ## Related Resources
 
@@ -108,11 +109,11 @@ DOI: <https://doi.org/10.1145/967900.968074>
 
 ## Project Documentation
 
+---
+
 _Click to open_
 
 ### CS 425
-
----
 
 <div class="row1-container">
     <a href="./assets/pdfs/425_PA1.pdf">
@@ -132,8 +133,6 @@ _Click to open_
 </div>
 
 ### CS 426
-
----
 
 <div class="row1-container">
     <a href="./assets/pdfs/426_PA1.pdf">
